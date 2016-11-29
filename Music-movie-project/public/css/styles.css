@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive');
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon');
+body {
+  background-image: url("http://confectionsofacottonpickinqueen.com/wp-content/uploads/2014/06/Dollarphotoclub_540377071.jpg");
+  background-size: cover;
+  color: #ce2c65;
+  font-family: 'Cedarville Cursive', cursive;
+}
+.caption{
+  font-family: 'Coming Soon', cursive;
+  color: #2d1700;
+  border-bottom: solid;
+  line-height: 10pt;
+}
+
+input {
+color: white;
+font-family: 'Cedarville Cursive', cursive;
+}
+h2 {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 30pt;
+  margin-bottom:0pt;
+  margin-top: 5pt;
+  line-height: 25pt;
+}
+
+button {
+  font-family: 'Cedarville Cursive', cursive;
+  -webkit-border-radius: 30;
+ -moz-border-radius: 46;
+ border-radius: 46px;
+ color: #ce2c65;
+ font-size: 30px;
+ background: #bae4e5;
+ padding: 10px 20px 10px 20px;
+ border: solid #ce2c65 4px;
+ text-decoration: none;
+
+}
+.recipe-item{
+    color: #2d1700;
+    border: 2px solid #6ac7c9;
+    background-color: #ececec;
+    font-family: 'Coming Soon', cursive;
+    align-items: center;
+}
+.ingredient-item{
+  color: #2d1700;
+  font-family: 'Coming Soon', cursive;
+  list-style-type: none;
+  text-align: center;
+}
+h4 {
+  font-family: Arvo;
+  font-size: 20pt;
+}
+
+img {
+  height: 150px;
+  text-align: center;
+
+}
+
+.question {
+  border: dotted #000033 10px;
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+  color: #2d1700;
+  font-size: 15pt;
+}
+h1 {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 45pt;
+  text-align: center;
+  line-height: 50pt;
+}
+
+.header{
+  align: center;
+  font-family: 'Cedarville Cursive', cursive;
+}
