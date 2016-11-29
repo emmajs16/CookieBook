@@ -51,6 +51,8 @@ button {
   font-family: 'Coming Soon', cursive;
   list-style-type: none;
   text-align: center;
+  position: relative;
+
 }
 h4 {
   font-family: Arvo;
@@ -58,9 +60,9 @@ h4 {
 }
 
 img {
-  height: 150px;
-  text-align: center;
-
+  padding-left: 40%;
+  height: 50%;
+  padding-top: 1%;
 }
 
 .question {
