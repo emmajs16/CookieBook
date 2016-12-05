@@ -1,0 +1,188 @@
+.three {
+    margin: 30px;
+    background-color: #ff0066;
+    height: 230px;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.three1 {
+    margin: 30px;
+    margin-left: 150px;
+    background-color: #ff0066;
+    height: 230px;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.navbar-brand{
+    margin-right: 100px;
+    font-family: 'Shrikhand', cursive;
+    font-size: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #66ccff;
+}
+
+
+.glyphicon-earphone {
+    font-size: 20px;
+}
+
+#phone {
+    font-size: 20px;
+    background-color: #ff0066;
+    padding: 5px;
+    margin-top: 6px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    padding-top: 55px;
+}
+
+.extra {
+    padding-top: 70px;
+}
+
+.phonenumber {
+    text-align: center;
+}
+
+.number {
+    font-size: 60px;
+    margin: 50px;
+    font-family:  'Francois One', sans-serif;
+    margin-bottom: 80px;
+}
+
+.part1 {
+    border-right: 6px solid #ff0066;
+    margin-left: 200px;
+    font-size: 60px;
+    font-family: 'Francois One', sans-serif;
+}
+
+.header11 {
+    margin-left: 290px;
+    text-align: center;
+}
+
+.text1 {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 80px;
+}
+
+.navbar {
+    background-color: white;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.forf {
+    font-family:  'Francois One', sans-serif;
+    font-size: 40px;
+}
+
+a:link {
+    color: white;
+}
+
+li {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+a:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+.header1 {
+    font-family: 'Francois One', sans-serif;
+    font-size: 50px;
+}
+
+.map {
+    margin-left: 260px;
+}
+
+.circles {
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     padding-bottom: 60px;
+     background-color: white;
+}
+
+.numberr {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #b3e7ff;
+}
+
+.info {
+    margin-top: 40px;
+}
+
+.language {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.textlanguage {
+    font-size: 20px;
+}
+
+.form-group {
+    text-align: center;
+    margin-left: 330px;
+}
+
+.first {
+    margin-top: 100px;
+}
+
+.increasing {
+    margin-bottom: 5px;
+}
+
+#write {
+    margin-top: 200px;
+}
+
+.widget {
+    margin-left: 55%;
+    margin-top:-18%;
+}
+
+.donations {
+    float: right;
+    margin-bottom: 0px;
+}
+
+.instructions {
+    margin-left: 40%;
+    margin-right: 10%;
+    font-size: 13pt;
+
+}
+
+.part3 {
+    font-size: 60px;
+    font-family: 'Francois One', sans-serif;
+    margin-top: 50px;
+    color: #ff0066;
+}
+#qrCode {
+    font-family:'Francois One', sans-serif;
+}
+.size {
+    font-size: p9t1;
+}
+
+.fs {
+    margin-right: 70px;
+}
+
+.bos {
+    margin-right: 240px;
+}
