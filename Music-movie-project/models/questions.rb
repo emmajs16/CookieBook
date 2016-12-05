@@ -1,9 +1,9 @@
 def cookie_chooser(user_value)
  if user_value <4
-   "breakfast"
+   "cranberry"
  elsif user_value <7
-   "snack"
+   "trailmix"
  elsif user_value <10
-   "dessert"
+   "chocolatey"
 end
 end
